@@ -24,7 +24,7 @@ document.getElementById('demoForm').addEventListener('submit', async function (e
     // Send form data to n8n webhook
     // The webhook triggers Gemini AI to generate an automated email response
     const response = await fetch(
-      'https://n8n.srv939400.hstgr.cloud/webhook-test/5a44627f-14c6-4d23-bf08-9f1253b7118a',
+      'https://n8n.srv939400.hstgr.cloud/webhook-test/76d092f9-5a38-47b4-9e6b-3894cc0e9740',
       {
         method: 'POST',
         headers: {
