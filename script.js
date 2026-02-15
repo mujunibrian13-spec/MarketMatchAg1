@@ -312,6 +312,6 @@ console.log(
   'color: #66bb6a; font-size: 14px;'
 );
 console.log(
-  '%cFor support: +256764110817 | info@marketmatchag.com',
+  '%cFor support: +256773950550 | info@marketmatchag.com',
   'color: #2e7d32; font-size: 12px;'
 );

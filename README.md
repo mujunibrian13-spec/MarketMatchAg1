@@ -45,7 +45,7 @@ MarketMatch Ag is a WhatsApp-based agricultural marketplace platform that connec
    - Ensure the `.htaccess` or server configuration supports static files
 
 ### Configuration
-- **WhatsApp Number**: Update the WhatsApp phone number (currently +256764110817) in `script.js` and links
+- **WhatsApp Number**: Update the WhatsApp phone number (currently +256773950550) in `script.js` and links
 - **n8n Webhook**: Update the webhook URL in `script.js` for demo form submissions
 - **Company Details**: Modify email address and contact info in `index.html` footer
 
@@ -130,7 +130,7 @@ MarketMatchAg1/
 - Uses structured prompts for consistent formatting
 
 ## WhatsApp Integration
-- All product links use `wa.me/256764110817` format
+- All product links use `wa.me/256773950550` format
 - Direct messaging for inquiries and orders
 - Pre-filled message templates for product interest
 
@@ -156,7 +156,7 @@ MarketMatchAg1/
 - [ ] SMS notifications alongside WhatsApp
 
 ## Support & Contact
-- **WhatsApp**: +256764110817
+- **WhatsApp**: +256773950550
 - **Email**: info@marketmatchag.com
 - **GitHub**: https://github.com/mujunibrian13-spec/MarketMatchAg1
 
